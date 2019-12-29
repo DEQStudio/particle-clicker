@@ -2,7 +2,7 @@
   {
     "key": "research-cpv",
     "name": "Цифровой REKAM iLook S750i",
-    "description": "Фоткать умеет. И так сойдет! Матрица: 12Мп, Светосила: f/2.8, Цифровой зум: 4",
+    "description": "Фоткать умеет.",
     "cost_increase": 1.8,
     "image": "assets/devices/304808_v01_b (2).jpg",
     "info": "html/CPV.html",
@@ -14,8 +14,8 @@
   },
   {
     "key": "research-jpsi",
-    "name": "J/ψ",
-    "description": "The J/ψ meson consists of a c and an anti-c quark.",
+    "name": "Цифровой REKAM iLook S970i",
+    "description": "Хоть что-то, жить можно.",
     "cost_increase": 1.7,
     "image": "assets/icons/png/Jpsi.png",
     "info": "html/Jpsi.html",
