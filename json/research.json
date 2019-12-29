@@ -1,8 +1,8 @@
 [
   {
     "key": "research-cpv",
-    "name": "CP violation",
-    "description": "CP symmetry is broken!",
+    "name": "Цифровой REKAM iLook S750i",
+    "description": "<li>Фоткать умеет. И так сойдет!</li><br>Матрица: <code>12Мп</code><br>Светосила: <code>f/2.8</code><br>Цифровой зум: <code>4</code>",
     "cost_increase": 1.8,
     "image": "assets/devices/304808_v01_b (2).jpg",
     "info": "html/CPV.html",
