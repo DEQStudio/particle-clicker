@@ -1,6 +1,6 @@
 [
   {
-    "description": "CP violation discovery!",
+    "description": "Первый фотик!",
     "icon": "fa-cogs",
     "key": "achievement-research-cpv-1",
     "threshold": 1,
@@ -8,7 +8,7 @@
     "targetProperty": "level"
   },
   {
-    "description": "J/\u03c8 discovery!",
+    "description": "Новый фотик - Все не так просто!",
     "icon": "fa-cogs",
     "key": "achievement-research-jpsi-1",
     "threshold": 1,
@@ -16,7 +16,7 @@
     "targetProperty": "level"
   },
   {
-    "description": "\u03c4 lepton discovery!",
+    "description": "Вы уже разобрались с новыми функциями ?",
     "icon": "fa-cogs",
     "key": "achievement-research-tau-1",
     "threshold": 1,
@@ -504,7 +504,7 @@
     "targetProperty": "hired"
   },
   {
-    "description": "5 Master Students working for you!",
+    "description": "5 школьников работают на Вас!",
     "icon": "fa-users",
     "key": "achievement-workers-masterstudents-5",
     "targetProperty": "hired",
@@ -512,7 +512,7 @@
     "threshold": 5
   },
   {
-    "description": "25 Master Students working for you!",
+    "description": "25 школьников работают на Вас!",
     "icon": "fa-users",
     "key": "achievement-workers-masterstudents-25",
     "targetProperty": "hired",
@@ -520,7 +520,7 @@
     "threshold": 25
   },
   {
-    "description": "50 Master Students working for you!",
+    "description": "50 школьников работают на Вас!",
     "icon": "fa-users",
     "key": "achievement-workers-masterstudents-50",
     "targetProperty": "hired",
@@ -528,7 +528,7 @@
     "threshold": 50
   },
   {
-    "description": "100 Master Students working for you!",
+    "description": "100 школьников работают на Вас!",
     "icon": "fa-users",
     "key": "achievement-workers-masterstudents-100",
     "targetProperty": "hired",
@@ -536,7 +536,7 @@
     "threshold": 100
   },
   {
-    "description": "5 PhD Students working for you!",
+    "description": "5 фотографов работают на Вас!",
     "icon": "fa-users",
     "key": "achievement-workers-phdstudents-5",
     "targetProperty": "hired",
@@ -544,7 +544,7 @@
     "threshold": 5
   },
   {
-    "description": "25 PhD Students working for you!",
+    "description": "25 фотографов работают на Вас",
     "icon": "fa-users",
     "key": "achievement-workers-phdstudents-25",
     "targetProperty": "hired",
@@ -552,7 +552,7 @@
     "threshold": 25
   },
   {
-    "description": "50 PhD Students working for you!",
+    "description": "50 фотографов работают на Вас",
     "icon": "fa-users",
     "key": "achievement-workers-phdstudents-50",
     "targetProperty": "hired",
@@ -560,7 +560,7 @@
     "threshold": 50
   },
   {
-    "description": "100 PhD Students working for you!",
+    "description": "100 фотографов работают на Вас",
     "icon": "fa-users",
     "key": "achievement-workers-phdstudents-100",
     "targetProperty": "hired",
@@ -568,7 +568,7 @@
     "threshold": 100
   },
   {
-    "description": "5 Postdocs working for you!",
+    "description": "5 фото-редакторов работают на Вас!",
     "icon": "fa-users",
     "key": "achievement-workers-postdocs-5",
     "targetProperty": "hired",
@@ -576,7 +576,7 @@
     "threshold": 5
   },
   {
-    "description": "25 Postdocs working for you!",
+    "description": "25 фото-редакторов работают на Вас!",
     "icon": "fa-users",
     "key": "achievement-workers-postdocs-25",
     "targetProperty": "hired",
@@ -584,7 +584,7 @@
     "threshold": 25
   },
   {
-    "description": "50 Postdocs working for you!",
+    "description": "50 фото-редакторов работают на Вас!",
     "icon": "fa-users",
     "key": "achievement-workers-postdocs-50",
     "targetProperty": "hired",
@@ -592,7 +592,7 @@
     "threshold": 50
   },
   {
-    "description": "100 Postdocs working for you!",
+    "description": "100 фото-редакторов работают на Вас!",
     "icon": "fa-users",
     "key": "achievement-workers-postdocs-100",
     "targetProperty": "hired",
@@ -600,7 +600,7 @@
     "threshold": 100
   },
   {
-    "description": "5 Research Fellows working for you!",
+    "description": "5 маркетологов работают на Вас!",
     "icon": "fa-users",
     "key": "achievement-workers-fellows-5",
     "targetProperty": "hired",
@@ -608,7 +608,7 @@
     "threshold": 5
   },
   {
-    "description": "25 Research Fellows working for you!",
+    "description": "25 маркетологов работают на Вас!",
     "icon": "fa-users",
     "key": "achievement-workers-fellows-25",
     "targetProperty": "hired",
@@ -616,7 +616,7 @@
     "threshold": 25
   },
   {
-    "description": "50 Research Fellows working for you!",
+    "description": "50 маркетологов работают на Вас!",
     "icon": "fa-users",
     "key": "achievement-workers-fellows-50",
     "targetProperty": "hired",
@@ -624,7 +624,7 @@
     "threshold": 50
   },
   {
-    "description": "100 Research Fellows working for you!",
+    "description": "100 маркетологов работают на Вас!",
     "icon": "fa-users",
     "key": "achievement-workers-fellows-100",
     "targetProperty": "hired",
@@ -632,7 +632,7 @@
     "threshold": 100
   },
   {
-    "description": "5 Permanent Staff working for you!",
+    "description": "5 моделей работают на Вас!",
     "icon": "fa-users",
     "key": "achievement-workers-permanent-5",
     "targetProperty": "hired",
@@ -640,7 +640,7 @@
     "threshold": 5
   },
   {
-    "description": "25 Permanent Staff working for you!",
+    "description": "25 моделей работают на Вас!",
     "icon": "fa-users",
     "key": "achievement-workers-permanent-25",
     "targetProperty": "hired",
@@ -648,7 +648,7 @@
     "threshold": 25
   },
   {
-    "description": "50 Permanent Staff working for you!",
+    "description": "50 моделей работают на Вас!",
     "icon": "fa-users",
     "key": "achievement-workers-permanent-50",
     "targetProperty": "hired",
@@ -656,7 +656,7 @@
     "threshold": 50
   },
   {
-    "description": "100 Permanent Staff working for you!",
+    "description": "100 моделей работают на Вас!",
     "icon": "fa-users",
     "key": "achievement-workers-permanent-100",
     "targetProperty": "hired",
@@ -664,7 +664,7 @@
     "threshold": 100
   },
   {
-    "description": "5 Tenured Professors working for you!",
+    "description": "5 пиарщиков работают на Вас!",
     "icon": "fa-users",
     "key": "achievement-workers-profs-5",
     "targetProperty": "hired",
@@ -672,7 +672,7 @@
     "threshold": 5
   },
   {
-    "description": "25 Tenured Professors working for you!",
+    "description": "25 пиарщиков работают на Вас!",
     "icon": "fa-users",
     "key": "achievement-workers-profs-25",
     "targetProperty": "hired",
@@ -680,7 +680,7 @@
     "threshold": 25
   },
   {
-    "description": "50 Tenured Professors working for you!",
+    "description": "50 пиарщиков работают на Вас!",
     "icon": "fa-users",
     "key": "achievement-workers-profs-50",
     "targetProperty": "hired",
@@ -688,7 +688,7 @@
     "threshold": 50
   },
   {
-    "description": "100 Tenured Professors working for you!",
+    "description": "100 пиарщиков работают на Вас!",
     "icon": "fa-users",
     "key": "achievement-workers-profs-100",
     "targetProperty": "hired",
@@ -696,7 +696,7 @@
     "threshold": 100
   },
   {
-    "description": "5 Nobel Laureates working for you!",
+    "description": "5 профессиональных фотографов работают на Вас!",
     "icon": "fa-users",
     "key": "achievement-workers-nobel-5",
     "targetProperty": "hired",
@@ -704,7 +704,7 @@
     "threshold": 5
   },
   {
-    "description": "25 Nobel Laureates working for you!",
+    "description": "25 профессиональных фотографов работают на Вас!",
     "icon": "fa-users",
     "key": "achievement-workers-nobel-25",
     "targetProperty": "hired",
@@ -712,7 +712,7 @@
     "threshold": 25
   },
   {
-    "description": "50 Nobel Laureates working for you!",
+    "description": "50 профессиональных фотографов работают на Вас!",
     "icon": "fa-users",
     "key": "achievement-workers-nobel-50",
     "targetProperty": "hired",
@@ -720,7 +720,7 @@
     "threshold": 50
   },
   {
-    "description": "100 Nobel Laureates working for you!",
+    "description": "100 профессиональных фотографов работают на Вас!",
     "icon": "fa-users",
     "key": "achievement-workers-nobel-100",
     "targetProperty": "hired",
@@ -728,7 +728,7 @@
     "threshold": 100
   },
   {
-    "description": "5 Summer Students working for you!",
+    "description": "5 студентов работают на Вас",
     "icon": "fa-users",
     "key": "achievement-workers-summies-5",
     "targetProperty": "hired",
@@ -736,7 +736,7 @@
     "threshold": 5
   },
   {
-    "description": "25 Summer Students working for you!",
+    "description": "25 студентов работают на Вас!",
     "icon": "fa-users",
     "key": "achievement-workers-summies-25",
     "targetProperty": "hired",
@@ -744,7 +744,7 @@
     "threshold": 25
   },
   {
-    "description": "50 Summer Students working for you!",
+    "description": "50 студентов работают на Вас!",
     "icon": "fa-users",
     "key": "achievement-workers-summies-50",
     "targetProperty": "hired",
@@ -752,7 +752,7 @@
     "threshold": 50
   },
   {
-    "description": "100 Summer Students working for you!",
+    "description": "100 студентов работают на Вас!",
     "icon": "fa-users",
     "key": "achievement-workers-summies-100",
     "targetProperty": "hired",
@@ -760,7 +760,7 @@
     "threshold": 100
   },
   {
-    "description": "Your first click!",
+    "description": "Это останется в истории.. Ваш первый клик!",
     "icon": "fa-hand-o-up",
     "key": "achievement-clicks-1",
     "threshold": 1,
@@ -768,7 +768,7 @@
     "targetProperty": "clicks"
   },
   {
-    "description": "100 clicks!",
+    "description": "100 кликов!",
     "icon": "fa-hand-o-up",
     "key": "achievement-clicks-100",
     "targetProperty": "clicks",
@@ -776,7 +776,7 @@
     "threshold": 100
   },
   {
-    "description": "1k clicks!",
+    "description": "1k кликов!",
     "icon": "fa-hand-o-up",
     "key": "achievement-clicks-1k",
     "targetProperty": "clicks",
@@ -784,7 +784,7 @@
     "threshold": 1000
   },
   {
-    "description": "10k clicks!",
+    "description": "10k кликов!",
     "icon": "fa-hand-o-up",
     "key": "achievement-clicks-10k",
     "targetProperty": "clicks",
@@ -792,7 +792,7 @@
     "threshold": 10000
   },
   {
-    "description": "100k clicks!",
+    "description": "100k кликов!",
     "icon": "fa-hand-o-up",
     "key": "achievement-clicks-100k",
     "targetProperty": "clicks",
@@ -800,7 +800,7 @@
     "threshold": 100000
   },
   {
-    "description": "1M clicks!",
+    "description": "1M кликов!",
     "icon": "fa-hand-o-up",
     "key": "achievement-clicks-1M",
     "targetProperty": "clicks",
@@ -928,7 +928,7 @@
     "threshold": 10000000000
   },
   {
-    "description": "JTN 100 funding spent!",
+    "description": "Ура! Вы потратили 100$!",
     "icon": "fa-money",
     "key": "achievement-funding-spent-100",
     "targetProperty": "moneySpent",
@@ -936,7 +936,7 @@
     "threshold": 100
   },
   {
-    "description": "JTN 10k funding spent!",
+    "description": "Юху! Вы потратили 100k$!",
     "icon": "fa-money",
     "key": "achievement-funding-spent-10k",
     "targetProperty": "moneySpent",
@@ -944,7 +944,7 @@
     "threshold": 10000
   },
   {
-    "description": "JTN 1M funding spent!",
+    "description": "Невообразимое вообразимо! Вы потратили 1M$!",
     "icon": "fa-money",
     "key": "achievement-funding-spent-1M",
     "targetProperty": "moneySpent",
@@ -952,7 +952,7 @@
     "threshold": 1000000
   },
   {
-    "description": "JTN 100M funding spent!",
+    "description": "Шок! Вы потратили 100M$!",
     "icon": "fa-money",
     "key": "achievement-funding-spent-100M",
     "targetProperty": "moneySpent",
@@ -960,7 +960,7 @@
     "threshold": 100000000
   },
   {
-    "description": "JTN 10G funding spent!",
+    "description": "Вы потратили 10G$!",
     "icon": "fa-money",
     "key": "achievement-funding-spent-10G",
     "targetProperty": "moneySpent",
