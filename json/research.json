@@ -40,10 +40,10 @@
   },
   {
     "key": "research-beauty",
-    "name": "Beauty quark",
-    "description": "The third generation down-type quark.",
+    "name": "Цифровой CANON IXUS 190",
+    "description": "Это то, что нужно! Время исследовать!",
     "cost_increase": 1.8,
-    "image": "assets/icons/png/b.png",
+    "image": "assets/devices/890453_v01_b (1).jpg",
     "info": "html/b.html",
     "state": {
       "reputation": 1.85e2,
