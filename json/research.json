@@ -9,7 +9,7 @@
     "state": {
       "reputation": 1e0,
       "cost": 1e1,
-      "info_levels": [ 1, 5, 10, 15, 20 ]
+      "info_levels": [ 1 ]
     }
   },
   {
@@ -22,7 +22,7 @@
     "state": {
       "reputation": 6e0,
       "cost": 4e2,
-      "info_levels": [ 1, 5 ]
+      "info_levels": [ 1 ]
     }
   },
   {
@@ -35,7 +35,7 @@
     "state": {
       "reputation": 3.3e1,
       "cost": 1e4,
-      "info_levels": [ 1, 5 ]
+      "info_levels": [ 1 ]
     }
   },
   {
@@ -48,7 +48,7 @@
     "state": {
       "reputation": 1.85e2,
       "cost": 2e5,
-      "info_levels": [ 1, 5 ]
+      "info_levels": [ 1 ]
     }
   },
     {
