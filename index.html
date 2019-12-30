@@ -73,7 +73,7 @@
                   <div class="media-body">
                     <h4 class="media-heading">{{ r.state.level > 0 ? r.name : '?????' }} <span ng-show="r.state.level > 0" class="badge">Level {{ r.state.level }}</span></h4>
                     <p ng-show="r.state.level > 0">{{ r.description }}</p>
-                    <p ng-show="r.state.level > 0" class="small">Research yields <strong>{{ r.state.reputation | niceNumber }}</strong> reputation.</p>
+                    <p ng-show="r.state.level > 0" class="small">Принесет Вам <strong>{{ r.state.reputation | niceNumber }}</strong> reputation.</p>
                     <div class="btn-group">
                       <button class="btn btn-primary" ng-disabled="!rc.isAvailable(r)" ng-click="rc.doResearch(r)"><i class="fa fa-cogs"></i> <small>{{ r.state.cost | niceNumber }} data</small></button>
                     <button class="btn btn-info {{ r.state.interesting ? 'blink' : '' }}" ng-show="r.state.level > 0" ng-click="rc.showInfo(r)"><i class="fa {{ r.state.interesting ? 'fa-exclamation' : 'fa-info' }}"></i></button>
@@ -92,27 +92,27 @@
         <div id="detector-holder">
           <div id="detector" ng-controller="DetectorController as dc">
             <canvas id="detector-core" width="400" height="400">
-              Your detector. Click on it to generate events.
+              Кликни, чтобы сделать снимок!
             </canvas>
             <canvas ng-click="dc.click()" id="detector-events" width="400" height="400" class="prevent-select">
-              Your detector. Click on it to generate events.
+              Кликни, чтобы сделать снимок!
             </canvas>
           </div>
         </div>
         <button id="detector-info" class="btn btn-info" ng-click="lc.showDetectorInfo()"><i class="fa fa-info"></i></button>
         <div class="row status" ng-cloak>
           <div class="col-xs-4 text-center col-no-padding-xs">
-            <strong>Data</strong><br>
+            <strong>Опыт</strong><br>
             {{ lc.lab.state.data | niceNumber }}
             <div class="update-value" id="update-data"></div>
           </div>
           <div class="col-xs-4 text-center col-no-padding-xs">
-            <strong>Reputation</strong><br>
+            <strong>Опыт</strong><br>
             {{ lc.lab.state.reputation | niceNumber }}
             <div class="update-value" id="update-reputation"></div>
           </div>
           <div class="col-xs-4 text-center col-no-padding-xs">
-            <strong>Funding</strong><br>
+            <strong>Бюджет</strong><br>
             {{ lc.lab.state.money | currency }}
             <div class="update-value" id="update-funding"></div>
           </div>
