@@ -16,7 +16,7 @@
     "key": "research-jpsi",
     "name": "Цифровой REKAM iLook S970i",
     "description": "Хоть что-то, жить можно.",
-    "cost_increase": 1.7,
+    "cost_increase": 1.8,
     "image": "assets/icons/png/Jpsi.png",
     "info": "html/2.html",
     "state": {
@@ -29,7 +29,7 @@
     "key": "research-tau",
     "name": "τ lepton",
     "description": "The third generation charged lepton.",
-    "cost_increase": 1.6,
+    "cost_increase": 1.8,
     "image": "assets/icons/png/tau.png",
     "info": "html/tau.html",
     "state": {
