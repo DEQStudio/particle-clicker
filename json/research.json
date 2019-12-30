@@ -5,7 +5,7 @@
     "description": "Фоткать умеет.",
     "cost_increase": 1.8,
     "image": "assets/devices/304808_v01_b (2).jpg",
-    "info": "html/CPV.html",
+    "info": "html/1.html",
     "state": {
       "reputation": 1e0,
       "cost": 1e1,
