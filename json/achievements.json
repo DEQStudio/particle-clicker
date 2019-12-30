@@ -440,7 +440,7 @@
     "threshold": 100
   },
   {
-    "description": "The first Master Students hired!",
+    "description": "Такс! Вы наняли первого школьника, вас ждет успех!",
     "icon": "fa-user",
     "key": "achievement-workers-masterstudents-1",
     "threshold": 1,
@@ -448,7 +448,7 @@
     "targetProperty": "hired"
   },
   {
-    "description": "The first PhD Students hired!",
+    "description": "Верно! Теперь Вам помогает Ваш первый личный фотограф!",
     "icon": "fa-user",
     "key": "achievement-workers-phdstudents-1",
     "threshold": 1,
@@ -456,7 +456,7 @@
     "targetProperty": "hired"
   },
   {
-    "description": "The first Postdocs hired!",
+    "description": "Без фоторедактора - никуда!",
     "icon": "fa-user",
     "key": "achievement-workers-postdocs-1",
     "threshold": 1,
@@ -464,7 +464,7 @@
     "targetProperty": "hired"
   },
   {
-    "description": "The first Research Fellows hired!",
+    "description": "Великолепно. Маркетолог продвигает Вас!",
     "icon": "fa-user",
     "key": "achievement-workers-fellows-1",
     "threshold": 1,
@@ -472,7 +472,7 @@
     "targetProperty": "hired"
   },
   {
-    "description": "The first Permanent Staff hired!",
+    "description": "Успех ждет Вас! Вы наняли первую модель!",
     "icon": "fa-user",
     "key": "achievement-workers-permanent-1",
     "threshold": 1,
@@ -480,7 +480,7 @@
     "targetProperty": "hired"
   },
   {
-    "description": "The first Tenured Professors hired!",
+    "description": "Ого! Вы наняли первого пиарщика!",
     "icon": "fa-user",
     "key": "achievement-workers-profs-1",
     "threshold": 1,
@@ -488,7 +488,7 @@
     "targetProperty": "hired"
   },
   {
-    "description": "The first Nobel Laureates hired!",
+    "description": "Класс! Вы наняли первого профессионального фотографа!",
     "icon": "fa-user",
     "key": "achievement-workers-nobel-1",
     "threshold": 1,
@@ -496,7 +496,7 @@
     "targetProperty": "hired"
   },
   {
-    "description": "The first Summer Students hired!",
+    "description": "Ура! Вы наняли первого студента!",
     "icon": "fa-user",
     "key": "achievement-workers-summies-1",
     "threshold": 1,
